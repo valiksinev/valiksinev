@@ -1,4 +1,4 @@
-# Valentine Sinev
+# Valentin Sinev
 
 **Rust developer at the intersection of Ethereum and Solana.**
 
@@ -30,7 +30,7 @@ bridges that gap without compromising EVM compatibility:
 
 Result: MetaMask, ethers.js, Hardhat, and Foundry all work without modification.
 
-🔗 **Rome EVM:** [repo link] · [docs link]
+🔗 **Rome EVM:**  · https://docs.rome.builders/
 
 ---
 
@@ -68,5 +68,4 @@ processing (2009 – 2017). Patent holder — *Glass Cleanliness Sensor*.
 
 - GitHub: [github.com/valiksinev](https://github.com/valiksinev)
 - LinkedIn: [linkedin.com/in/valentinesinev](https://www.linkedin.com/in/valentinesinev)
-- X: [handle]
 - Email: valik.sinev@gmail.com
