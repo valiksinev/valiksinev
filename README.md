@@ -28,7 +28,7 @@ bridges that gap without compromising EVM compatibility:
 - **SBF emulator** — off-chain simulation of on-chain logic
 - **Solidity ↔ CPI interface** — EVM bytecode can call native Solana programs directly
 
-Result: MetaMask, ethers.js, Hardhat, and Foundry all work without modification.
+Result: MetaMask, ethers.js and Hardhat all work without modification.
 
 🔗 **Rome EVM:**  · https://docs.rome.builders/
 
