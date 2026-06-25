@@ -67,7 +67,7 @@ processing (2009 – 2017). Patent holder — *Glass Cleanliness Sensor*.
 ## 📫 Links
 
 - GitHub: [github.com/valiksinev](https://github.com/valiksinev)
-- LinkedIn: [linkedin.com/in/valentinesinev](https://www.linkedin.com/in/valentinesinev)
+- LinkedIn: [https://www.linkedin.com/in/valentine-sinev](https://www.linkedin.com/in/valentine-sinev/)
 - X: [x.com/valik_sinev](https://x.com/valik_sinev)
 - Email: valik.sinev@gmail.com
 - telegram: @valiksinev
